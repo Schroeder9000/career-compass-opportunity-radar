@@ -1,0 +1,1 @@
+export default function Unsubscribe(){return <main className="legal shell"><a href="/">← Home</a><h1>Unsubscribe</h1><p>The production email provider will include a one-click unsubscribe link in every message. No provider has been selected for this pilot yet, so no marketing email will be sent from this site directly.</p></main>}
